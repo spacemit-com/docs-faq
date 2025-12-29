@@ -1,4 +1,6 @@
-# 软件常见问题
+# Software FAQs
+
+> Engish version is coming soon ...
 
 我们精心整理了软件使用中的常见问题及答案，为您提供一个快速查询的支持平台。
 
