@@ -1,4 +1,6 @@
-# 硬件常见问题
+# Hardware FAQs
+
+> English Version is coming soon ...
 
 ## 开发调试
 
