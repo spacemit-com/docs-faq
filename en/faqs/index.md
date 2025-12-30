@@ -1,4 +1,4 @@
-# FAQ Categories
+# Categories
 
-- [SW FAQ](sw_faq.md)
-- [HW FAQ](hw_faq.md)
+- [Software FAQ](sw_faq.md)
+- [Hardware FAQ](hw_faq.md)
